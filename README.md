@@ -8,7 +8,7 @@ Com o passar dos anos adquiri um conhecimento holístico em desenvolvimento de s
 - 🌱 Atualmente, estou focado em desenvolvimento utilizando tecnicas de microserviços e computação em nuvem.
 - 🤝 Estou procurando colaborar em projetos de ciência de dados e aprendizado profundo.
 
-Fique à vontade para visualizar e talves colaborar com alguns projetos do meu repositório.
+Fique à vontade para visualizar e talvez colaborar com alguns projetos do meu repositório.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=samuelandresilva)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelandresilva&hide=TeX&layout=compact)
